@@ -2,6 +2,8 @@
 Do simple calculations on your Microbit using this program.
 <br>
 Calculator supports fundamental arithmetic (addition, subtraction, multiplication, division, exponents).
+<BR>
+IF YOU DO NOT HAVE A MICROBIT, feel free to use the [Microbit Simulator](https://makecode.microbit.org/_1v4642H46ATx).
 
 ## How to use
 - Press the left button once to increase the first num (addend, factor, dividend, etc.) by one.
