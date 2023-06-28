@@ -12,4 +12,8 @@ IF YOU DO NOT HAVE A MICROBIT, feel free to run the program on this [Microbit Si
   - Press Pin 1 to go up a note (e.g. C1 => C#1 => D1).
   - Press Pin 2 to go down a note (e.g. F1 => E1 => D#1).
 - Press Button B once to add one half-beat of rest
-- Press both buttons simultaneously to play the song developed thus far. 
+- Press both buttons simultaneously to play the song developed thus far.
+
+<br>
+
+![](example.png)
