@@ -3,6 +3,8 @@ It's classic Flappy Bird but on a Microbit.
 <br>
 Now, you get the chance to play this popular game on a 5x5 resolution screen.
 <br>
+If you do not have a microbit to play the game, feel free to play it on the [Microbit simulator](https://makecode.microbit.org/_5k1JvVR3CPzK).
+<br>
 ## How to play
 - Sprites
   - Bright single LED is the bird
