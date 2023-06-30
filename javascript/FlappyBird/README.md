@@ -6,6 +6,7 @@ Now, you get the chance to play this popular game on a 5x5 resolution screen.
 If you do not have a microbit to play the game, feel free to play it on the [Microbit simulator](https://makecode.microbit.org/_5k1JvVR3CPzK).
 <br>
 ## How to play
+- **Press Button A to start game**
 - Sprites
   - Bright single LED is the bird
   - Low brightness LEDs are part of the pipe.
