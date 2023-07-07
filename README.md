@@ -1,5 +1,5 @@
 # Microbit Mini Projects
-Welcome to this _archive_ of some practice Microbit mini-projects!
+Welcome to this archive of some practice Microbit mini-projects!
 <br>
 This repo builds a Microbit community within Github and encourages people to enter/contribute to it.
 <br>
